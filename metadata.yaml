@@ -1,0 +1,30 @@
+_repo: Meditationes-de-prima-philosophia_23306
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Descartes, René
+    alias: Descartes, Rene
+    birthdate: 1596
+    deathdate: 1650
+    gutenberg_agent_id: '44'
+    url: http://www.gutenberg.org/2009/agents/44
+    wikipedia: http://en.wikipedia.org/wiki/René_Descartes
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2007-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23306'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'First philosophy'
+- !lcc 'B'
+- !lcsh 'God -- Proof, Ontological'
+title: Meditationes de prima philosophia
+url: http://www.gutenberg.org/ebooks/23306
